@@ -35,7 +35,7 @@ Result: Production-ready implementation tailored to your stack
 
 ### 1. Install the Agents
 ```bash
-git clone https://github.com/vijaythecoder/awesome-claude-agents.git
+git clone https://github.com/mikelson-laince/agentes.git
 cp -r awesome-claude-agents/agents ~/.claude/
 ```
 
